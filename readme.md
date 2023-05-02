@@ -44,6 +44,7 @@ wiki, jira 협업도구 사용 경험<br>
 <figure class="half">
 <img src="src/page_12.png" alt="잡코리아 모바일 메인" width="50%" height="auto">
 </figure>
+
 - 메인개편
 - Web Markup 단위 작업
 - Web sub Jquery
@@ -67,6 +68,7 @@ wiki, jira 협업도구 사용 경험<br>
 <img src="src/page_10_01.jpg" alt="튜터 메인" width="49%" height="auto">
 <img src="src/page_10_02.jpg" alt="튜터 메인" width="49%" height="auto">
 </figure>
+
 - Web Markup 단위 작업
 - Web sub Jquery
 <br><br>
@@ -97,6 +99,7 @@ wiki, jira 협업도구 사용 경험<br>
 <img src="src/page_07_01.png" alt="유플러스 메인" width="49%" height="auto">
 <img src="src/page_07_02.png" alt="유플러스 메인" width="49%" height="auto">
 </figure>
+
 - Web, Mobile Markup 단위 작업
 - Web sub Jquery
 - swiper 적용
@@ -114,6 +117,7 @@ wiki, jira 협업도구 사용 경험<br>
 <img src="src/page_06_01.png" alt="유플러스 메인" width="49%" height="auto">
 <img src="src/page_06_02.png" alt="유플러스 메인" width="49%" height="auto">
 </figure>
+
 - Web Markup 단위 작업 (모바일요금제, 인터넷 iptv)
 - vue 사용 프로젝트
 - 접근성
@@ -125,6 +129,7 @@ wiki, jira 협업도구 사용 경험<br>
 <img src="src/page_05_01.jpg" alt="교보생명 메인" width="49%" height="auto">
 <img src="src/page_05_02.jpg" alt="교보생명 메인" width="49%" height="auto">
 </figure>
+
 - Web, Mobile Markup 단위 작업
 - Web sub Jquery
 - 접근성
@@ -142,6 +147,7 @@ wiki, jira 협업도구 사용 경험<br>
 <img src="src/page_04.png" alt="피코크 메인" width="49%" height="auto">
 <img src="src/page_04_mo.png" alt="피코크 메인" width="49%" height="auto">
 </figure>
+
 - Web, Mobile Markup 단위 작업
 - Web sub Jquery
 - 시멘틱 테그를 이용한 약관 작업
